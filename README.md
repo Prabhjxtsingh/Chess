@@ -74,11 +74,11 @@ A **fully-featured Chess game** built using **Python + HTML/CSS/JavaScript**, su
 git clone (https://github.com/Prabhjxtsingh/Chess.git)
 cd python-chess-pro
 2️⃣ Install dependencies
-bash
-Copy code
+
+
+
 pip install -r requirements.txt
-💡 PyWebView is optional.
-If not installed, the game runs in the browser automatically.
+
 
 ▶️ Run the Game
 bash
