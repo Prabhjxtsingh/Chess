@@ -1,0 +1,2 @@
+💡 PyWebView is optional.
+If not installed, the game runs in the browser automatically.
