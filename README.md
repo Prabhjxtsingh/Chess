@@ -71,7 +71,7 @@ A **fully-featured Chess game** built using **Python + HTML/CSS/JavaScript**, su
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/python-chess-pro.git
+git clone (https://github.com/Prabhjxtsingh/Chess.git)
 cd python-chess-pro
 2️⃣ Install dependencies
 bash
